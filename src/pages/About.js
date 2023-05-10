@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar'
 
 const Home = () => {
   return (
+    
     <div className="bg-gradient-to-b from-maincolor to-darkshade h-screen">
       <div className="bg-gradient-to-b from-maincolor to-darkshade min-h-full">
         <Navbar />
